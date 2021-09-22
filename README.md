@@ -1,6 +1,7 @@
 # bioinf575_test
 
-This is a test repo for the BIoinformatics 575 class.
+Repo for testing
 
-It is plainly very informative.
+We will work with this repo for the BIOINF 575 class
 
+---
